@@ -9,6 +9,6 @@ Subvenkon will enumerate the domain in the same way as [Venkon](https://www.venk
 For the sake of this example, I will be using a domain from a public program from Hackerone which is [AT&T](https://hackerone.com/att).
 
 ```python subvenkon.py -d sky.com.mx```
-<img src="{{ site.url }}{{ site.baseurl }}example.gif" alt="oscp list">
+<img src="{{ site.url }}{{ site.baseurl }} /example.gif" alt="oscp list">
 
 
