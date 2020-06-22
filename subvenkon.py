@@ -47,7 +47,7 @@ def main():
         elif o in ("-d", "--domain"):
             target   = a   
         else:
-            assert False, "Unhandled Option"
+            assert False, usage()
 main()    
 
 
